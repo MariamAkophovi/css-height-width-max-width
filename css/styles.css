@@ -1,0 +1,22 @@
+.element1 {
+    height: 50px;
+    width: 100%;
+    border: 1px solid #4CAF50;
+}
+
+.element2 {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+
+.element3 {
+    height: 100px;
+    width: 500px;
+    background-color: powderblue;
+}
+.element4 {
+    max-width: 500px;
+    height: 100px;
+    background-color: powderblue;
+}
